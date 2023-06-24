@@ -16,7 +16,10 @@
 
 ## :fire::fire:What Is this!!:fire::fire:
   TIC TAC TOE <br>
+does it need any explanation??
 a simple game that all we know it. it's a good game for playing together.
+it's really fun and make you feel better and play with your friend and win the competition<br>
+hahahahaha.....
 
 ## :rotating_light:the Rules:rotating_light:
 the rules are simple:<br>
