@@ -1,10 +1,10 @@
 ![](/home/amirhossein/IdeaProjects/Game/src/main/resources/com/example/game/image/111-1114842_tic-tac-toe-tic-tac-toe-clipart-removebg-preview.png)
 
-## What Is this!!:fire:
+## :fire::fire:What Is this!!:fire::fire:
   TIC TAC TOE <br>
 a simple game that all we know it. it's a good game for playing together.
 
-## the Rules
+## :rotating_light:the Rules:rotating_light:
 the rules are simple:<br>
 first person who has 4 element in following each other without any interrupt
 is the winner.<br>
@@ -34,10 +34,10 @@ is the winner.<br>
   <h2></h2>
     <div class="row">
     <div class="column">
-      <img src="src/main/resources/com/example/game/image/1.png" style="width:100%; height: 179px; border-radius: 10px">
+      <img src="src/main/resources/com/example/game/image/1.png" style="width:100%; border-radius: 10px">
     </div>
     <div class="column">
-      <img src="src/main/resources/com/example/game/image/2.png" style="width:100%;height: 179px; border-radius: 10px">
+      <img src="src/main/resources/com/example/game/image/2.png" style="width:100%; border-radius: 10px">
     </div>
     <div class="column">
       <img src="src/main/resources/com/example/game/image/3.png" style="width:100%; border-radius: 10px">
@@ -48,12 +48,12 @@ is the winner.<br>
 
 
 
-## About
+## :memo:About:memo:
 the first Realise of the game is: 2023-06-25<br>
 the last update of the game is: 2023-06-25<br>
 the current version is :1.0.0
 
-## how to use
+## :technologist:how to use:technologist:
 for run the game clone the project to your local and try to run the Application class<br>
 as the code written by the javaFx (The framework of Java) the Application is someThing like this
 ````Java
