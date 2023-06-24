@@ -1,6 +1,6 @@
 ![](/home/amirhossein/IdeaProjects/Game/src/main/resources/com/example/game/image/111-1114842_tic-tac-toe-tic-tac-toe-clipart-removebg-preview.png)
 
-## What Is this!!
+## What Is this!!:fire:
   TIC TAC TOE <br>
 a simple game that all we know it. it's a good game for playing together.
 
@@ -34,13 +34,13 @@ is the winner.<br>
   <h2></h2>
     <div class="row">
     <div class="column">
-      <img src="/home/amirhossein/IdeaProjects/Game/src/main/resources/com/example/game/image/1.png" style="width:100%; height: 179px; border-radius: 10px">
+      <img src="src/main/resources/com/example/game/image/1.png" style="width:100%; height: 179px; border-radius: 10px">
     </div>
     <div class="column">
-      <img src="/home/amirhossein/IdeaProjects/Game/src/main/resources/com/example/game/image/2.png" style="width:100%;height: 179px; border-radius: 10px">
+      <img src="src/main/resources/com/example/game/image/2.png" style="width:100%;height: 179px; border-radius: 10px">
     </div>
     <div class="column">
-      <img src="/home/amirhossein/IdeaProjects/Game/src/main/resources/com/example/game/image/3.png" style="width:100%; border-radius: 10px">
+      <img src="src/main/resources/com/example/game/image/3.png" style="width:100%; border-radius: 10px">
     </div>
     </div>
 </body>
