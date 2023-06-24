@@ -29,5 +29,4 @@ public class WinPageController implements Initializable {
         MediaPlayer.changeMusic(Util.MUSIC_PATH);
         Util.goTo(event,"application",null,null,null,false);
     }
-
 }
