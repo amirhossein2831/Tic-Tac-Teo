@@ -28,27 +28,12 @@ is the winner.<br>
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-        {
-        box-sizing: border-box;
-      }
-      .column {
-        float: left;
-        width: 33.33%;
-        padding: 5px;
-      }
-      .row::after {
-        content: "";
-        clear: both;
-        display: table;
-      }
-  </style>
 </head>
 <body>
   <h2></h2>
     <div class="row">
     <div class="column">
-      <img src="src/main/resources/com/example/game/image/1.png" style="width:50%;height: 50%; border-radius: 10px">
+      <img src="src/main/resources/com/example/game/image/1.png"  style="width:100%; border-radius: 10px">
     </div>
     <div class="column">
       <img src="src/main/resources/com/example/game/image/2.png" style="width:100%; border-radius: 10px">
