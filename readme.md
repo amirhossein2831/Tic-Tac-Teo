@@ -29,7 +29,7 @@ is the winner.<br>
 <html>
 <head>
   <style>
-       * {
+        {
         box-sizing: border-box;
       }
       .column {
