@@ -15,7 +15,7 @@
    <children>
       <ImageView fitHeight="177.0" fitWidth="585.0" layoutX="200.0" layoutY="20.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@image/111-1114842_tic-tac-toe-tic-tac-toe-clipart-removebg-preview.png" />
+            <Image url="@image/label.png" />
          </image>
       </ImageView>
       <ImageView blendMode="DARKEN" fitHeight="150.0" fitWidth="200.0" layoutX="713.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">

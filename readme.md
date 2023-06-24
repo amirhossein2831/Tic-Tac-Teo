@@ -1,5 +1,17 @@
-![](/home/amirhossein/IdeaProjects/Game/src/main/resources/com/example/game/image/111-1114842_tic-tac-toe-tic-tac-toe-clipart-removebg-preview.png)
 
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  <h2></h2>
+    <div class="row">
+    <div class="column">
+      <img src="src/main/resources/com/example/game/image/label.png" style="width:100%; border-radius: 10px">
+    </div>
+    </div>
+</body>
+</html>
 ## :fire::fire:What Is this!!:fire::fire:
   TIC TAC TOE <br>
 a simple game that all we know it. it's a good game for playing together.
@@ -34,7 +46,7 @@ is the winner.<br>
   <h2></h2>
     <div class="row">
     <div class="column">
-      <img src="src/main/resources/com/example/game/image/1.png" style="width:100%; border-radius: 10px">
+      <img src="src/main/resources/com/example/game/image/1.png" style="width:50%;height: 50%; border-radius: 10px">
     </div>
     <div class="column">
       <img src="src/main/resources/com/example/game/image/2.png" style="width:100%; border-radius: 10px">
