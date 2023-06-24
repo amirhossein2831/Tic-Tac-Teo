@@ -12,6 +12,8 @@
     </div>
 </body>
 </html>
+
+
 ## :fire::fire:What Is this!!:fire::fire:
   TIC TAC TOE <br>
 a simple game that all we know it. it's a good game for playing together.
@@ -27,20 +29,20 @@ is the winner.<br>
 <html>
 <head>
   <style>
-  * {
-    box-sizing: border-box;
-  }
-  .column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-  }
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-</style>
+       * {
+        box-sizing: border-box;
+      }
+      .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+      }
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+  </style>
 </head>
 <body>
   <h2></h2>
